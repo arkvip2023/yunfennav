@@ -8,6 +8,21 @@ template: home
 
 # 页面分类与站点列表（可按需增删顺序）
 categories:
+  - name: 推荐网站
+    icon: fas fa-cloud
+    sites:
+      - name: 中创千帆在线科技（广州）有限公司
+        url: https://arkvip.cn
+        icon: fab fa-aws
+        description: 公司
+      - name: 中创千帆在线
+        url: https://new.arkvip.cn
+        icon: fab fa-aws
+        description: 公司
+      - name: 公共营养师
+        url: https://ggyys.arkvip.cn
+        icon: fab fa-aws
+        description: 导航页
   - name: 常用网站
     icon: fas fa-star # 分类图标（Font Awesome）
     sites:
@@ -218,10 +233,3 @@ categories:
         url: https://www.heroku.com
         icon: fas fa-h-square
         description: 应用部署平台
-  - name: 推荐网站
-    icon: fas fa-cloud
-    sites:
-      - name: 中创千帆
-        url: https://arkvip.cn
-        icon: fab fa-aws
-        description: 亚马逊云服务
