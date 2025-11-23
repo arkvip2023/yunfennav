@@ -218,3 +218,10 @@ categories:
         url: https://www.heroku.com
         icon: fas fa-h-square
         description: 应用部署平台
+  - name: 推荐网站
+    icon: fas fa-cloud
+    sites:
+      - name: 中创千帆
+        url: https://arkvip.cn
+        icon: fab fa-aws
+        description: 亚马逊云服务
