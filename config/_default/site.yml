@@ -2,11 +2,11 @@
 # 建议复制到 config/user/site.yml 并按需调整；用户配置采用“完全替换”策略，将覆盖默认配置。
 
 # 网站基本信息
-title: MeNav
-description: Personal Navigation Station
-author: rbetree
+title: 云峰全球导航页
+description: 个人网址导航
+author: 云峰
 favicon: menav.svg
-logo_text: MeNav
+logo_text: 云峰全球导航页
 
 icons:
   # 站点卡片图标模式：
